@@ -1,9 +1,9 @@
-# SafeRoutes - Designing Safety without Ambiguity 📍
+# SafeRoutes: Designing Safety without Ambiguity 📍
 
 > **Course:** CS 549 - Human Computer Interaction, Sabancı University  
 > **Date:** Fall 2025
 
-## 👥 Project Team
+## Project Team
 * **Sarin İç** - Experimental User Study Testing
 * **Aişe Özaytürk** - Experimental User Study Analysis
 * **Mustafa Enes Özdel** - Interaction Prototype Development
