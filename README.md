@@ -3,10 +3,6 @@
 > **Course:** CS 549 - Human Computer Interaction, Sabancı University  
 > **Date:** Fall 2025
 
-<p align="center">
-  <img src="path/to/logo_image.png" alt="SafeRoutes Logo" width="200"/>
-</p>
-
 ## 👥 Project Team
 * **Sarin İç** - Experimental User Study Testing
 * **Aişe Özaytürk** - Experimental User Study Analysis
