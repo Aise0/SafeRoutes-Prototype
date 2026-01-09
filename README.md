@@ -23,3 +23,16 @@ Therefore, the context in which interaction takes place in SafeRoutes should be 
 To make these requirements more concrete, we structured the study around a single core use case. We assumed the user needed to travel from one point to another in the evening, for example, from Kadıköy to Beşiktaş. After entering the starting and ending points, the user is presented with three route options. These options are presented not only with efficiency metrics such as time and distance, but also with information that supports the perception of safety. If the user wishes, they can report any situation they anticipate encountering during the journey and express their experience with a brief evaluation at the end of the trip. This flow allowed us to integrate the safety dimension into the experience without disrupting basic navigation behavior such as route selection, and to transform safety from a passive score into a process where the user can contribute and feel more like an agent.
 
 In conclusion, the fundamental element that necessitates SafeRoutes is that the perceptual and emotional burden users experience during nighttime mobility remains invisible in current navigation experiences. Users make decisions not only about where they are going, but also about how they will feel and how much control they will have during the journey. What people expect from SafeRoutes is that they can choose a route where they feel safer, understand the reasons behind that choice, and not be left alone when making a decision. We position this section as a foundation that connects the design principles and evaluation approach we use in subsequent stages to these requirements.
+
+## References
+
+Erkan, N. C., & Topcu, B. S. (2021). Gender-based differences in fear of crime in public spaces: An investigation of a safe district in Istanbul. Urbani Izziv, 32(2), 87–97. https://doi.org/10.5379/urbani-izziv-en-2021-32-02-02
+
+Hamedanian, F., & Ghadermazi, S. (2022). Challenges for Iranian Women in Daily Urban Safety. Frontiers in Sociology, 7. https://doi.org/10.3389/fsoc.2022.790905
+
+Kaur, R., Goyal, V ., Guntur, V . M. V ., Saini, A., Sanadhya, K., Gupta, R., & Ratra, S. (2021). A Navigation System for Safe Routing. Proceedings - IEEE International Conference on Mobile Data Management, 2021-June. https://doi.org/10.1109/MDM52706.2021.00047
+Lazar, J., Feng, J. H., & Hochheiser, H. (2017). Research Methods in Human-Computer Interaction (2nd ed.). Morgan Kaufmann.
+Norman, D. A. (2013). The design of everyday things (Revised and expanded edition). Basic Books.
+
+Şenol, F. (2022). Gendered sense of safety and coping strategies in public places: a study in Atatürk Meydanı of Izmir. Archnet-IJAR: International Journal of Architectural Research, 16(3), 554–574. https://doi.org/10.1108/ARCH-08-2021-0213
+
