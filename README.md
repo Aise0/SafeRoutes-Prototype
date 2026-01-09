@@ -1,4 +1,4 @@
-# SafeRoutes - Be Free and Safe in Istanbul 📍
+# SafeRoutes - Designing Safety without Ambiguity 📍
 
 > **Course:** CS 549 - Human Computer Interaction, Sabancı University  
 > **Date:** Fall 2025
